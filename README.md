@@ -1,2 +1,2 @@
-# clicky-game
-clicky game
+# Boku no Hero Clicky Game
+
